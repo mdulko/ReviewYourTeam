@@ -64,7 +64,6 @@ const colorMap: Colors = {
 
 export default function TeamListCard({
   title,
-  listId,
   color,
   nicknames,
   isEditable = false,
